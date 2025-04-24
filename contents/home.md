@@ -16,4 +16,3 @@ B.A., Finance, University of International Business and Economics, 2017—2021.
 
 #### Research Interests
 Family Firm, Information Disclosure, Bond Pricing
-
