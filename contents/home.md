@@ -1,6 +1,6 @@
 
 
-She is currently pursuing a Doctor's Degree in Accounting, at School of Management, Fudan University, China.
+She is currently pursuing a Doctor's Degree in Accounting, at School of Management, Fudan University, China. Her supervisor is Changjiang Lyu [[Website]](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=011469). 
 
 #### Email
 &emsp;&emsp; liziyi@m.fudan.edu.cn
@@ -8,7 +8,7 @@ She is currently pursuing a Doctor's Degree in Accounting, at School of Manageme
 &emsp;&emsp; zyi.li@outlook.com
 
 #### Education
-&emsp;&emsp; Ph.D., Accounting, Fudan University , 2023 - 2027 (expected).
+&emsp;&emsp; Ph.D., Accounting, Fudan University, 2023 - 2027 (expected).
 
 &emsp;&emsp; MPhil, Accounting, Fudan University, 2021 - 2023.
 
