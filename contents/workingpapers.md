@@ -4,9 +4,13 @@
 
 &ensp;&ensp;&ensp;1st round Revise at the *Journal of Corporate Finance*
 
+
+
 [2] **Economic Policy Uncertainty, Incentive Effectiveness, and Incentive Intensity: Theory and Evidence**
 
 &ensp;&ensp;&ensp;*with Rui Ruan, Ji Shen and Yuchen Sun*
+
+
 
 [3] **Family firm and Maturity Mismatch (in Chinese)**
 
@@ -16,6 +20,8 @@
 
 &ensp;&ensp;&ensp;Presented at: 8th China Academic Conference on Finance and Accounting (2024); 2nd Forum on M&A, Restructuring and Equity Investment (2024)
 
+
+
 [4] **Family firm and Resilience (in Chinese)**
 
 &ensp;&ensp;&ensp;*with Lishu Lin and Changjiang Lyu*
@@ -23,6 +29,8 @@
 &ensp;&ensp;&ensp;《疾风知劲草：家族企业韧性研究》，合作者：林励书，吕长江
 
 &ensp;&ensp;&ensp;Presented at: 1st China Young Scholars Forum on Finance and Accounting
+
+
 
 [5] **Understanding Inter-Organization Travail Variance during Organizational Identity Change Process** [[LINK]](https://journals.aom.org/doi/10.5465/AMBPP.2020.19889abstract)
 
