@@ -1,6 +1,8 @@
 
 
-She is currently pursuing a Doctorate in Accounting, at School of Management, Fudan University, China. Her supervisor is Changjiang Lyu [[Website]](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=011469). 
+&emsp;&emsp; She is currently pursuing a Doctorate in Accounting, at School of Management, Fudan University, China. 
+
+&emsp;&emsp; Her supervisor is Changjiang Lyu [[Website]](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=011469). 
 
 #### Email
 &emsp;&emsp; liziyi@m.fudan.edu.cn
