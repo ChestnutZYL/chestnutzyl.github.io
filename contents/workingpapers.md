@@ -1,4 +1,4 @@
-[1] **New Event and Old Antidote: Can Ex-Ante Disclosure Mitigate Regulatory Risk?**[[LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665267)
+[1] **New Event and Old Antidote: Can Ex-Ante Disclosure Mitigate Regulatory Risk?**[[LINK]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665267)
 
 &ensp;&ensp;&ensp;*with Rui Ruan, Yuchen Sun and Yue Tang*
 
