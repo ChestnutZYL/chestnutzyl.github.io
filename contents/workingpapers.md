@@ -1,4 +1,4 @@
-[1] **New Event and Old Antidote: Can Ex-Ante Disclosure Mitigate Regulatory Risk?**[[READ]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665267)
+[1] **New Event and Old Antidote: Can Ex-Ante Disclosure Mitigate Regulatory Risk?**[[LINK](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665267)
 
 &ensp;&ensp;&ensp;*with Rui Ruan, Yuchen Sun and Yue Tang*
 
@@ -24,7 +24,7 @@
 
 &ensp;&ensp;&ensp;Presented at: 1st China Young Scholars Forum on Finance and Accounting
 
-[5] **Understanding Inter-Organization Travail Variance during Organizational Identity Change Process** [[READ]](https://journals.aom.org/doi/10.5465/AMBPP.2020.19889abstract)
+[5] **Understanding Inter-Organization Travail Variance during Organizational Identity Change Process** [[LINK]](https://journals.aom.org/doi/10.5465/AMBPP.2020.19889abstract)
 
 &ensp;&ensp;&ensp;*with Yijie Min and Nanxuan Wang*
 
